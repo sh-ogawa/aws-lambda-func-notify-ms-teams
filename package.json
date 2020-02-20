@@ -1,0 +1,21 @@
+{
+  "name": "aws-lambda-func-notify-ms-teams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "main": "index.js"
+  },
+  "keywords": [],
+  "author": "sh-ogawa",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.618.0"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2"
+  }
+}

@@ -16,6 +16,6 @@
     "aws-sdk": "^2.618.0"
   },
   "devDependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
